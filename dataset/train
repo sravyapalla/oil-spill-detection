@@ -1,0 +1,10 @@
+The directory `dataset/train` is intended to contain training images for the oil spill detection model. Since this is a directory and not a file, it will not contain any specific contents. You can create this directory in your file system, and it will be ready to hold your training images.
+
+If you need to create a placeholder file within this directory, you can create a `.gitkeep` file to ensure the directory is tracked by Git. Here’s how you can do that:
+
+1. Navigate to the `dataset/train` directory.
+2. Create a file named `.gitkeep`.
+
+The contents of the `.gitkeep` file can simply be a comment indicating that this file is intentionally left blank to keep the directory in version control. 
+
+If you would like to proceed with creating the `.gitkeep` file, please let me know!
